@@ -1,5 +1,28 @@
-# Welcome
+# JarvisAI
 
-Hello there!, This repo contains the code for Jarvis : A Intelligent Virtual Assistant that can help you with your daily life.
+## Table of Contents
 
-This Project Is Owned & Maintained By dev-tejas.
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [License](#license)
+* [Credits](#credits)
+* [FAQ](#faq)
+
+## Installation
+
+```bash
+git clone https://github.com/dev-tejas/JarvisAI.git
+```
+
+```bash
+cd JarvisAI
+```
+
+```bash
+$ pip install -r requirements.txt
+```
+
+```bash
+$ python main.py
+```
